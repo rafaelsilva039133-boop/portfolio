@@ -2,12 +2,9 @@
 
 html {
   scroll-behavior: smooth;
+  
 }
 
 .fullscreen{
-  @apply min-h-screen min-w-screen
-}
-
-body {
-  @apply mx-0 px-0
+  @apply min-h-screen min-w-full;
 }
