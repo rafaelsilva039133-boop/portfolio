@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+html {
+  scroll-behavior: smooth;
+}
+
 .fullscreen{
   @apply min-h-screen min-w-screen
 }
