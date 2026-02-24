@@ -3,7 +3,7 @@ import Image from "next/image";
 function Header(){ 
   return(
     <header className="fixed top-0 left-0 w-full bg-red-500 shadow-md z-10 flex items-center justify-between px-30">
-      <Image src={"/logo png.png"} width={50} height={50} alt="logo" />
+      <Image src={"/logo.svg"} width={50} height={50} alt="logo" />
 
       <div className=" hidden md:block space-x-3">
         <a href="#home"> Inicio </a>
