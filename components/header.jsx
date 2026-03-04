@@ -1,18 +1,31 @@
+'use client'
+
 import Image from "next/image";
+import { useState } from "react";
+import Link from "next/link";
 
 function Header(){ 
+
+  const [menu, setMenu] = useState(false);
+
   return(
-    <header className="fixed top-0 left-0 w-full bg-red-500 shadow-md z-10 flex items-center justify-between px-30">
+    <header className={menu 
+    ? "fixed top-0 left-0 w-full h-full bg-red-500 shadow-md z-10 flex items-center justify-between px-30"
+    : "fixed top-0 left-0 w-full bg-red-500 shadow-md z-10 flex items-center justify-between px-30"
+    }>
+
       <Image src={"/logo.svg"} width={50} height={50} alt="logo" />
 
       <div className=" hidden md:block space-x-3">
-        <a href="#home"> Inicio </a>
-        <a href="#projects"> Projetos </a>
-        <a href="#about"> Sobre </a>
-        <a href="#services"> Serviços </a>
-        <a href="#contact"> Contato </a>
+        <Link href={"/#home"}> Inicio </Link>
+        <Link href={"/#projects"}> Projetos </Link>
+        <Link href={"/#about"}> Sobre </Link>
+        <Link href={"/#services"}> Serviços </Link>
+        <Link href={"/plans"}> Planos </Link>
+        <Link href={"/#contact"}> Contato </Link>
+        
       </div>
-      <button className=" md:hidden">
+      <button  onClick={() => setMenu(!menu)}>
         menu
       </button>
     </header>
