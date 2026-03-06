@@ -6,8 +6,8 @@ import Hero from "@/components/hero";
 import Projects from "@/components/projects";
 import Plans from "@/components/plans";
 
-export default function Home() {
- 
+export default async function Home() {
+
   return (
     <main>
       <Header/>

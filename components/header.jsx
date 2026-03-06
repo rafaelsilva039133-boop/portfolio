@@ -54,6 +54,9 @@ function Header(){
           <Link href={"/#services"}>Serviços</Link>
           <Link href={"/#plans"}>Planos</Link>
           <Link href={"/#contact"}>Contato</Link>
+
+          <Link href="/en">English</Link>
+          <Link href="/pt">Português</Link>
         </div>)
         :(<div className="gap-6 hidden pr-20 md:flex ">
           <Link href={"/#home"}>Inicio</Link>
