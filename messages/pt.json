@@ -1,6 +1,52 @@
 {
   "Home": {
-    "title": "Bem-vindo",
-    "description": "Meu primeiro app com i18n"
+    "title": "Olá, meu nome é Rafael Silva",
+    "description": "Sou Web designer & Desenvolvedor Front-end",
+    "btn1": "Meus projetos",
+    "btn2": "Sobre mim",
+    "btn3": "Contato"
+  },
+  "Projects": {
+    "title": "Projetos",
+    "pjt1": "xtem2",
+    "desc1": "Projeto de um Aplicativo Mobile de produtividade, desenvolvido para meu uso pessoal, utilizando React Native e Expo.",
+    "btn1": "Ver Mais",
+    "btn2": "Ver Projeto"
+  },
+  "About": {
+    "title": "Sobre mim",
+    "description": "Sou um desenvolvedor front-end eu crio experiências digitais envolventes e funcionais. Com uma sólida formação em design gráfico, trago uma perspectiva única para o desenvolvimento web, combinando estética e usabilidade. Tenho experiência em HTML, CSS, Node.js, ferramentas low code como WordPress e frameworks como React, o que me permite construir interfaces modernas e responsivas. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades para entregar projetos de alta qualidade."
+  },
+  "Services": {
+    "title": "Serviços",
+    "service1": "Desenvolvimento Front-end",
+    "description1": "Criação de interfaces web modernas e responsivas utilizando as mais recentes tecnologias e melhores práticas de desenvolvimento.",
+    "service2": "Web Design",
+    "description2": "Design de interfaces web modernas e responsivas, focadas na experiência do usuário e na estética.",
+    "btn1": "Entrar em contato"
+  },
+  "Contact": {
+    "title": "Contato",
+    "description": "Se você tem um projeto em mente ou deseja discutir como posso ajudar, sinta-se à vontade para entrar em contato comigo. Estou sempre aberto a novas oportunidades e colaborações."
+  },
+  "Plans": {
+    "title": "Planos",
+    "plan1": "Manutenção ou Suporte para Sistemas Existentes",
+    "description1": "Correções de bugs, melhorias de desempenho, ajustes de funcionalidades e suporte técnico para sistemas já existentes. Cobrança por hora para garantir flexibilidade conforme a necessidade do projeto. Valor: R$25,00/h.",
+    "plan2": "Landing Page",
+    "description2": "Criação de landing pages modernas, rápidas e otimizadas para conversão. Ideal para divulgação de produtos, serviços ou campanhas. Landing page simples: R$499,00. Landing page avançada com painel de administrador: R$1199,00.",
+    "plan3": "Aplicações Personalizadas",
+    "description3": "Desenvolvimento de aplicações sob medida para atender necessidades específicas do seu negócio, desde sistemas web até ferramentas personalizadas. Cobrança por hora para acompanhar a complexidade de cada projeto. Valor: R$25,00/h.",
+    "btn1": "Entrar em contato"
+  },
+  "Header": {
+    "home": "Início",
+    "projects": "Projetos",
+    "about": "Sobre mim",
+    "services": "Serviços",
+    "contact": "Contato",
+    "language": "Idioma",
+    "plans": "Planos",
+    "allPlans": "Todos os planos"
   }
 }

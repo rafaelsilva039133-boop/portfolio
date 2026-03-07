@@ -1,6 +1,53 @@
 {
   "Home": {
-    "title": "Welcome",
-    "description": "My first app with i18n"
+    "title": "Hello, my name is Rafael Silva.",
+    "description": "I am a Web designer & Front-end Developer",
+    "btn1": "My Projects",
+    "btn2": "About Me",
+    "btn3": "Contact"
+  },
+  "Projects": {
+    "title": "Projects",
+    "pjt1": "xtem2",
+    "desc1": "Project of a Mobile Productivity App, developed for my personal use, using React Native and Expo.",
+    "btn1": "View More",
+    "btn2": "View Project"
+  },
+  "About": {
+    "title": "About Me",
+    "description": "I am a front-end developer who creates engaging and functional digital experiences. With a solid background in graphic design, I bring a unique perspective to web development, combining aesthetics and usability. I have experience in HTML, CSS, Node.js, low-code tools like WordPress, and frameworks like React, which allows me to build modern and responsive interfaces. I am always seeking to learn new technologies and improve my skills to deliver high-quality projects.",
+    "btn1": "Get in Touch"
+  },
+  "Services": {
+    "title": "Services",
+    "service1": "Front-end Development",
+    "description1": "Creation of modern and responsive web interfaces using the latest technologies and best development practices.",
+    "service2": "Web Design",
+    "description2": "Design of modern and responsive web interfaces, focused on user experience and aesthetics.",
+    "btn1": "Get in Touch"
+  },
+  "Contact": {
+    "title": "Contact",
+    "description": "If you have a project in mind or want to discuss how I can help, feel free to get in touch with me. I am always open to new opportunities and collaborations."
+  },
+  "Plans": {
+    "title": "Plans",
+    "plan1": "Maintenance or Support for Existing Systems",
+    "description1": "Bug fixes, performance improvements, functionality adjustments, and technical support for existing systems. Hourly billing to ensure flexibility according to the project's needs. Rate: $40/h.",
+    "plan2": "Landing Page",
+    "description2": "Creation of modern, fast, and optimized landing pages for conversion. Ideal for promoting products, services, or campaigns. Simple landing page: $680. Advanced landing page with admin panel: $1,920.",
+    "plan3": "Custom Applications",
+    "description3": "Development of custom applications to meet specific business needs, from web systems to personalized tools. Hourly billing to track the complexity of each project. Rate: $25/h.",
+    "btn1": "Get in Touch"
+  },
+  "Header": {
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About Me",
+    "services": "Services",
+    "contact": "Contact",
+    "language": "Language",
+    "plans": "Plans",
+    "allPlans": "All Plans"
   }
 }

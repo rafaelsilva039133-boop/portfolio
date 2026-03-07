@@ -1,10 +1,11 @@
 'use client'
 
 import { useState } from "react";
-import Link from "next/link";
+import {Link} from "@/i18n/navigation";
+import { useTranslations } from "next-intl";
 
 function Header(){ 
-
+  const t = useTranslations("Header");
   const [menu, setMenu] = useState(false);
   const [showLinks, setShowLinks] = useState(false)
 
@@ -48,23 +49,23 @@ function Header(){
             transition-all duration-700 
             ${showLinks ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4"}
           `}>
-          <Link href={"/#home"}>Inicio</Link>
-          <Link href={"/#projects"}>Projetos</Link>
-          <Link href={"/#about"}>Sobre</Link>
-          <Link href={"/#services"}>Serviços</Link>
-          <Link href={"/#plans"}>Planos</Link>
-          <Link href={"/#contact"}>Contato</Link>
-
-          <Link href="/en">English</Link>
-          <Link href="/pt">Português</Link>
+          <Link href={"/#home"}>{t("home")}</Link>
+          <Link href={"/#projects"}>{t("projects")}</Link>
+          <Link href={"/#about"}>{t("about")}</Link>
+          <Link href={"/#services"}>{t("services")}</Link>
+          <Link href={"/#plans"}>{t("plans")}</Link>
+          <Link href={"/#contact"}>{t("contact")}</Link>
+          <span>{t("language")}</span>
+          <Link href="/en">en</Link>
+          <Link href="/pt">pt</Link>
         </div>)
         :(<div className="gap-6 hidden pr-20 md:flex ">
-          <Link href={"/#home"}>Inicio</Link>
-          <Link href={"/#projects"}>Projetos</Link>
-          <Link href={"/#about"}>Sobre</Link>
-          <Link href={"/#services"}>Serviços</Link>
-          <Link href={"/#plans"}>Planos</Link>
-          <Link href={"/#contact"}>Contato</Link>
+          <Link href={"/#home"}>{t("home")}</Link>
+          <Link href={"/#projects"}>{t("projects")}</Link>
+          <Link href={"/#about"}>{t("about")}</Link>
+          <Link href={"/#services"}>{t("services")}</Link>
+          <Link href={"/#plans"}>{t("plans")}</Link>
+          <Link href={"/#contact"}>{t("contact")}</Link>
         </div>)
         }
       </div>
