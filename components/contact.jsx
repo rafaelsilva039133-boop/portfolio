@@ -6,7 +6,7 @@ function Contact(){
   return(
     <section id="contact" className="responsive-container h-[80vh] md:h-[70vh] flex flex-col md:flex-row items-start md:items-baseline justify-center  border-t-4 border-(--color-secondary)">
       <div className="flex flex-col gap-2 ">
-        <h1 className="title text-(--color-secondary)">{t("title")}</h1>
+        <h1 className="title">{t("title")}</h1>
         <p className="pb-2 text text-(--color-text)">{t("description")}</p>
         <a className="text text-(--color-assistant) font-bold" href="mailto:rafaelsilva039133@gmail.com" target="_blank" rel="noopener noreferrer"> <span className="border-text hover:border-zinc-700 hover:text-zinc-700">rafaelsilva039133@gmail.com</span> </a>
         <a className="text text-(--color-assistant) font-bold " href="https://wa.me/557582986745" target="_blank" rel="noopener noreferrer"> <span className="border-text hover:border-zinc-700 hover:text-zinc-700">(75) 8298-6745</span> </a>
