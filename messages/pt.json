@@ -1,6 +1,6 @@
 {
   "Home": {
-    "title": "Olá, meu nome é Rafael Silva",
+    "title": "Olá, meu nome é ",
     "description": "Sou Web designer & Desenvolvedor Front-end",
     "btn1": "Meus projetos",
     "btn2": "Sobre mim",
@@ -29,16 +29,6 @@
     "title": "Contato",
     "description": "Se você tem um projeto em mente ou deseja discutir como posso ajudar, sinta-se à vontade para entrar em contato comigo. Estou sempre aberto a novas oportunidades e colaborações.",
     "social": "Redes Sociais"
-  },
-  "Plans": {
-    "title": "Planos",
-    "plan1": "Manutenção ou Suporte para Sistemas Existentes",
-    "description1": "Correções de bugs, melhorias de desempenho, ajustes de funcionalidades e suporte técnico para sistemas já existentes. Cobrança por hora para garantir flexibilidade conforme a necessidade do projeto. Valor: R$25,00/h.",
-    "plan2": "Landing Page",
-    "description2": "Criação de landing pages modernas, rápidas e otimizadas para conversão. Ideal para divulgação de produtos, serviços ou campanhas. Landing page simples: R$499,00. Landing page avançada com painel de administrador: R$1199,00.",
-    "plan3": "Aplicações Personalizadas",
-    "description3": "Desenvolvimento de aplicações sob medida para atender necessidades específicas do seu negócio, desde sistemas web até ferramentas personalizadas. Cobrança por hora para acompanhar a complexidade de cada projeto. Valor: R$25,00/h.",
-    "btn1": "Entrar em contato"
   },
   "Header": {
     "home": "Início",

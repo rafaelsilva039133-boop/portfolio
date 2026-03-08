@@ -4,7 +4,6 @@ import Services from "@/components/services";
 import Header from "@/components/header";
 import Hero from "@/components/hero";
 import Projects from "@/components/projects";
-import Plans from "@/components/plans";
 
 export default async function Home() {
 
@@ -15,7 +14,6 @@ export default async function Home() {
       <Projects/>
       <About/>
       <Services/>
-      <Plans/>
       <Contact/>
     </main>
   );
