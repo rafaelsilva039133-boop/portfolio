@@ -4,11 +4,13 @@ import Services from "@/components/services";
 import Header from "@/components/header";
 import Hero from "@/components/hero";
 import Projects from "@/components/projects";
+import Cursor from "@/components/cursor";
 
 export default async function Home() {
 
   return (
     <main>
+      <Cursor/>
       <Header/>
       <Hero/>
       <Projects/>
