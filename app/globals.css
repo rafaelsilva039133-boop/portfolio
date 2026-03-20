@@ -33,6 +33,10 @@ html {
     @apply text-base sm:text-lg md:text-xl leading-relaxed font-Inter;
   }
 
+  .text-header{
+    @apply text-base sm:text-lg md:text-xl leading-relaxed font-Inter font-bold;
+  }
+
   .responsive-container{
     @apply px-4 sm:px-6 md:px-10 lg:px-20 xl:px-30;
   }

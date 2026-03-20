@@ -4,9 +4,9 @@ import Button from "./button";
 function Services(){ 
   const t = useTranslations("Services");
   return(
-    <section id="services" className="fullscreen  responsive-container">
+    <section id="services" className=" responsive-container py-20">
       <h1 className="title text-center ">{t("title")}</h1>
-      <div className="flex flex-col md:flex-row justify-between text-center pt-10 pb-10 gap-16">
+      <div className="flex flex-col md:flex-row justify-between text-center pt-10 pb-10 md:pb-0 gap-16">
         <div className="flex flex-col items-center gap-3 m-2 md:m-0 md:w-1/2">
           <img src="/webdesign.svg" alt="Web Design" className="h-40" />
           <h2 className="subtitle">{t("service1")}</h2>
