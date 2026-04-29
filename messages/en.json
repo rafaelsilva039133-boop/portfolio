@@ -15,8 +15,9 @@
   },
   "About": {
     "title": "About Me",
-    "description": "I am a front-end developer who creates engaging and functional digital experiences. With a solid background in graphic design, I bring a unique perspective to web development, combining aesthetics and usability. I have experience in HTML, CSS, Node.js, low-code tools like WordPress, and frameworks like React, which allows me to build modern and responsive interfaces. I am always seeking to learn new technologies and improve my skills to deliver high-quality projects.",
-    "btn1": "Get in Touch"
+    "description1": "I am a front-end developer who creates engaging and functional digital experiences. With a solid background in graphic design, I bring a unique perspective to web development, combining aesthetics and usability.",
+    "description2": "I have experience in HTML, CSS, Node.js, low-code tools like WordPress, and frameworks like React, which allows me to build modern and responsive interfaces.",
+    "description3": "I am always seeking to learn new technologies and improve my skills to deliver high-quality projects."
   },
   "Services": {
     "title": "Services",
