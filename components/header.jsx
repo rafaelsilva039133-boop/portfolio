@@ -91,7 +91,7 @@ function Header(){
           <button onClick={() => handleMenuLinkClick("about")}>{t("about")}</button>
           <button onClick={() => handleMenuLinkClick("services")}>{t("services")}</button>
           <button onClick={() => handleMenuLinkClick("contact")}>{t("contact")}</button>
-          <div className=" border-t-2">
+          <div className=" border-t-2 flex flex-col items-center">
             <span className=" font-bold text-(--color-secondary) font-Charis text-lg sm:text-xl md:text-2xl leading-snug">{t("language")}</span>
             <div className="flex gap-2 text-(--color-text)">
               <a className=" font-semibold" href="/en">en</a> 
