@@ -10,13 +10,13 @@ function Services(){
         <div className="flex flex-col items-center gap-3 m-2 md:m-0 md:w-1/2">
           <img src="/webdesign.svg" alt="Web Design" className="h-40" />
           <h2 className="subtitle">{t("service1")}</h2>
-          <p className="text text-(--color-text)">{t("description1")}</p>
+          <p className="text text-(--color-text) w-[80%]">{t("description1")}</p>
           <Button content={{ link: "#contact", text: t("btn") }} />
         </div>
         <div className="flex flex-col items-center gap-3 m-2 md:m-0 md:w-1/2">
           <img src="/webdevelopment.svg" alt="Web Development" className="h-40" />
           <h2 className="subtitle">{t("service2")}</h2>
-          <p className="text text-(--color-text)">{t("description2")}</p>
+          <p className="text text-(--color-text) w-[80%]">{t("description2")}</p>
           <Button content={{ link: "#contact", text: t("btn") }} />
         </div>
       </div>
