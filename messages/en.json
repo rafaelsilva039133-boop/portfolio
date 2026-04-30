@@ -52,6 +52,17 @@
       "projectDesc2": "The project was developed using Node.js with the Next.js framework. The application includes a main page with navigation links to other sections of the site. A dynamic routing system was implemented using the App Router, following the experimento/[name] pattern in folders to generate dynamic pages based on URL parameters. The data used on the site is centralized in a JavaScript constant, serving as a content source for reusable pages.",
       "projectDesc3": "The project includes features such as responsiveness, dynamic routing, and lazy loading, allowing the user to have a smooth browsing experience. Each part was built with a focus on speed and efficiency.",
       "projectDesc4": "With this project, it was possible to improve skills in Next.js, as well as reinforce the importance of componentization. The final result meets the proposed objectives and can be expanded in the future."
+    },
+    "DrCarlos": {
+      "projectTitle": "Dr. Carlos Landing page",
+      "projectDesc": "This web page was developed as a landing page for lawyers, aiming to present legal services in a clear, professional, and persuasive way. Its structure is focused on converting visitors into potential clients, using well-organized sections, call-to-action elements, and a responsive design. The goal is to provide a direct and efficient experience, highlighting key services and making it easy for users to get in touch.",
+      "projectName": "DrCarlos",
+      "projectIMG": "/Mundo-quantico.webp",
+      "projectLink": "https://advogado-landing-page-taupe.vercel.app",
+      "projectDesc1": "Este projeto foi desenvolvido com o objetivo de apresentar projetos de física e computação quântica para alunos do ensino fundamental. A ideia surgiu a partir do livro 'Projetos de Física e Computação Quântica para o Ensino Fundamental', desenvolvido pela equipe UESB-QuIIN. A plataforma apresenta histórias com imagens ilustrativas e projetos didáticos voltados para aplicação em sala de aula, oferecendo uma abordagem interativa e acessível ao ensino de conceitos de física e computação quântica.",
+      "projectDesc2": "O projeto foi desenvolvido com Node.js utilizando o framework Next.js. A aplicação possui uma página principal com links de navegação para outras seções do site. Foi implementado um sistema de rotas dinâmicas usando o App Router, com o padrão experimento/[name] em pastas para geração de páginas dinâmicas com base em parâmetros de URL. Os dados utilizados no site estão centralizados em uma constante JavaScript, funcionando como fonte de conteúdo para páginas reutilizáveis.",
+      "projectDesc3": "O projeto conta com funcionalidades como responsividade, rotas dinâmicas e lazy loading, permitindo que o usuário tenha uma navegação fluida. Cada parte foi construída pensando em rapidez e eficiência.",
+      "projectDesc4": "Com esse projeto, foi possível aprimorar habilidades em Next.js, além de reforçar a importância da componentização. O resultado final atende ao objetivo proposto e pode ser expandido futuramente."
     }
   }
 }
