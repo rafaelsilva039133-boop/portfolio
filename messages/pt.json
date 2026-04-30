@@ -6,13 +6,6 @@
     "btn2": "Sobre mim",
     "btn3": "Contato"
   },
-  "Projects": {
-    "title": "Projetos",
-    "pjt1": "xtem2",
-    "desc1": "Projeto de um Aplicativo Mobile de produtividade, desenvolvido para meu uso pessoal, utilizando React Native e Expo.",
-    "btn1": "Ver Mais",
-    "btn2": "Ver Projeto"
-  },
   "About": {
     "title": "Sobre mim",
     "description1": "Sou um desenvolvedor front-end eu crio experiências digitais envolventes e funcionais. Com uma sólida formação em design gráfico, trago uma perspectiva única para o desenvolvimento web, combinando estética e usabilidade.",
@@ -41,5 +34,21 @@
     "language": "Idioma",
     "plans": "Planos",
     "allPlans": "Todos os planos"
+  },
+  "Projects": {
+    "title": "Projetos",
+    "btn": "Ver Todos os Projetos",
+    "cardbtn1": "Ver Mais",
+    "cardbtn2": "Acessar Projeto",
+    "featured": ["MundoQuantico"]
+  },
+  "Project": {
+    "MundoQuantico": {
+      "projectTitle": "Mundo Quântico",
+      "projectDesc": "Mundo Quântico é uma página web que apresenta histórias com imagens ilustrativas e projetos didáticos voltados para aplicação em sala de aula, oferecendo uma abordagem interativa e acessível ao ensino de conceitos da física e computação quântica.",
+      "projectName": "MundoQuantico",
+      "projectIMG": "/Mundo-quantico.webp",
+      "projectLink": "https://mundoquantico.netlify.app"
+    }
   }
 }
