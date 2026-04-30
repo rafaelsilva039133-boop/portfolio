@@ -1,20 +1,13 @@
 'use client'
 
 import { useState } from "react";
-import { Link } from "@/i18n/navigation";
 import { useTranslations } from "next-intl";
+import { Link } from "@/i18n/navigation";
 
 function Header(){ 
   const t = useTranslations("Header");
   const [menu, setMenu] = useState(false);
   const [showLinks, setShowLinks] = useState(false)
-
-  const scrollToSection = (id) => {
-    const section = document.getElementById(id);
-    if (section) {
-      section.scrollIntoView({ behavior: "smooth" });
-    }
-  };
 
   function toggleMenu() {
     if (!menu) {
@@ -32,15 +25,11 @@ function Header(){
     }
   };
 
-  const handleMenuLinkClick = (id) => {
-    scrollToSection(id);
-    toggleMenu();
-  }
-
   return(
     <header className="fixed top-0 left-0 w-full bg-(--color-primary) shadow-md z-20 ">
 
       <button 
+        href={"/"}
         className="absolute top-5.5 right-10 lg:right-30"
         onClick={() => toggleMenu()}
       >
@@ -78,21 +67,17 @@ function Header(){
         ${menu ? "h-screen px-15 sm:px-30 md:px-60 lg:px-80 xl:px-90 2xl:px-110" : "h-18 px-10 lg:px-30"}
       `}>
 
-        <button onClick={() => scrollToSection("home")}><img src={"/logo.svg"} alt="logo" className={` transition-all duration-500 ${menu ? " h-30 sm:h-40 md:h-50" : "h-14"}`} /></button>
+        <Link href={"/"}><img src={"/logo.svg"} alt="logo" className={` transition-all duration-500 ${menu ? " h-30 sm:h-40 md:h-50" : "h-14"}`} /></Link>
 
         {
           menu 
           ?(<div   className={`
-            gap-3 flex flex-col text-header
+            gap-3 flex flex-col text-header text-center
             transition-all duration-700 text-(--color-secondary)
             ${showLinks ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4"}
           `}>
-          <button onClick={() => handleMenuLinkClick("home")}>{t("home")}</button>
-          <button onClick={() => handleMenuLinkClick("projects")}>{t("projects")}</button>
-          <button onClick={() => handleMenuLinkClick("about")}>{t("about")}</button>
-          <button onClick={() => handleMenuLinkClick("services")}>{t("services")}</button>
-          <button onClick={() => handleMenuLinkClick("contact")}>{t("contact")}</button>
-          <Link href={"/projects"} className="text-center">{t("myWork")}</Link>
+          <Link href={"/"}>{t("portfolio")}</Link>
+          <Link href={"/projects"}>{t("myWork")}</Link>
           <div className=" border-t-2 flex flex-col items-center">
             <span className=" font-bold text-(--color-secondary) font-Charis text-lg sm:text-xl md:text-2xl leading-snug">{t("language")}</span>
             <div className="flex gap-2 text-(--color-text)">
@@ -103,13 +88,7 @@ function Header(){
           </div>
           
         </div>)
-        :(<div className="gap-6 hidden pr-20 lg:flex text-header text-(--color-secondary)">
-          <button onClick={() => scrollToSection("home")}>{t("home")}</button>
-          <button onClick={() => scrollToSection("projects")}>{t("projects")}</button>
-          <button onClick={() => scrollToSection("about")}>{t("about")}</button>
-          <button onClick={() => scrollToSection("services")}>{t("services")}</button>
-          <button onClick={() => scrollToSection("contact")}>{t("contact")}</button>
-        </div>)
+        :(<></>)
         }
       </div>
     </header>

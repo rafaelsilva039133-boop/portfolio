@@ -7,8 +7,7 @@ function Projects() {
   const t = useTranslations("Projects");
   const tProject = useTranslations("Project");
 
-  // Coloca -3 depois para aparecer apenas os ultimos 3 projetos
-  const featuredKeys = t.raw("featured").slice(0, 2);
+  const featuredKeys = t.raw("featured").slice(-3);
 
   return (
     <section id="projects" className="responsive-container gap-3 md:gap-6 flex flex-col items-center">
