@@ -40,7 +40,7 @@
     "btn": "Ver Todos os Projetos",
     "cardbtn1": "Ver Mais",
     "cardbtn2": "Acessar Projeto",
-    "featured": ["MundoQuantico"]
+    "featured": ["MundoQuantico", "DrCarlos"]
   },
   "Project": {
     "MundoQuantico": {
@@ -55,10 +55,10 @@
       "projectDesc4": "Com esse projeto, foi possível aprimorar habilidades em Next.js, além de reforçar a importância da componentização. O resultado final atende ao objetivo proposto e pode ser expandido futuramente."
     },
     "DrCarlos": {
-      "projectTitle": "Dr. Carlos Landing page",
-      "projectDesc": "Esta página web foi desenvolvida como uma landing page voltada para advogados, com o objetivo de apresentar serviços jurídicos de forma clara, profissional e persuasiva. A estrutura é focada na conversão de visitantes em potenciais clientes, utilizando seções organizadas, chamadas para ação e um design responsivo. A proposta é oferecer uma experiência direta e eficiente, destacando os principais serviços e facilitando o contato do usuário",
+      "projectTitle": "Dr. Carlos",
+      "projectDesc": "Esta Landing page foi desenvolvida com o objetivo de apresentar serviços jurídicos. A estrutura é focada na conversão de visitantes em potenciais clientes, oferecendo uma experiência direta e eficiente, destacando os principais serviços e facilitando o contato do usuário.",
       "projectName": "DrCarlos",
-      "projectIMG": "/Mundo-quantico.webp",
+      "projectIMG": "/DrCarlos.webp",
       "projectLink": "https://advogado-landing-page-taupe.vercel.app",
       "projectDesc1": "Este projeto foi desenvolvido como uma landing page para advogados, com o objetivo de apresentar serviços jurídicos de forma clara, profissional e acessível. A proposta é transmitir confiança ao usuário e facilitar o primeiro contato.",
       "projectDesc2": "O desenvolvimento foi realizado utilizando HTML, CSS e JavaScript, com foco em performance, organização e responsividade. A estrutura da página foi planejada para guiar o usuário de forma intuitiva pelas informações apresentadas.",
