@@ -15,15 +15,15 @@ export default async function ProjectPage({ params }) {
     <main>
       <Cursor/>
       <Header/>
-      <section className=" responsive-container pt-30 pb-15 space-y-2.5">
-        <Link href={"/projects"} className=" fixed ">
+      <section className=" responsive-container pt-25 pb-15 space-y-2.5">
+        <Link href={"/projects"}>
           <svg xmlns="http://www.w3.org/2000/svg" 
               width="38" 
               height="38" 
               viewBox="0 0 24 24" 
               fill="none" 
               stroke="currentColor" 
-              stroke-width="2" 
+              strokeWidth="2" 
               stroke-linecap="round" 
               stroke-linejoin="round"
               className="stroke-[#7C2D12]">

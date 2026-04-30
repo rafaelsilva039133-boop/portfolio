@@ -42,7 +42,7 @@
     "btn": "Ver Todos os Projetos",
     "cardbtn1": "Ver Mais",
     "cardbtn2": "Acessar Projeto",
-    "featured": ["MundoQuantico", "DrCarlos", "Projeto3", "Projeto4"]
+    "featured": ["DrCarlos", "MundoQuantico", "Projeto3", "Projeto4"]
   },
   "Project": {
     "MundoQuantico": {
@@ -58,7 +58,7 @@
     },
     "DrCarlos": {
       "projectTitle": "Dr. Carlos",
-      "projectDesc": "Esta Landing page foi desenvolvida com o objetivo de apresentar serviços jurídicos. A estrutura é focada na conversão de visitantes em potenciais clientes, oferecendo uma experiência direta e eficiente, destacando os principais serviços e facilitando o contato do usuário.",
+      "projectDesc": "Esta Landing page foi desenvolvida com o objetivo de apresentar serviços jurídicos. A estrutura é focada na conversão de visitantes em potenciais clientes, destacando os principais serviços e facilitando o contato do usuário.",
       "projectName": "DrCarlos",
       "projectIMG": "/DrCarlos.webp",
       "projectLink": "https://advogado-landing-page-taupe.vercel.app",
@@ -69,7 +69,7 @@
     },
     "Projeto3": {
       "projectTitle": "Dr. Carlos",
-      "projectDesc": "Esta Landing page foi desenvolvida com o objetivo de apresentar serviços jurídicos. A estrutura é focada na conversão de visitantes em potenciais clientes, oferecendo uma experiência direta e eficiente, destacando os principais serviços e facilitando o contato do usuário.",
+      "projectDesc": "Esta landing page foi desenvolvida com o objetivo de apresentar serviços jurídicos. A estrutura é focada na conversão de visitantes em potenciais clientes, oferecendo uma experiência direta e eficiente, destacando os principais serviços e facilitando o contato do usuário.",
       "projectName": "DrCarlos",
       "projectIMG": "/DrCarlos.webp",
       "projectLink": "https://advogado-landing-page-taupe.vercel.app",

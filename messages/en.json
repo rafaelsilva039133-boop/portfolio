@@ -40,7 +40,7 @@
     "btn": "View All Projects",
     "cardbtn1": "See More",
     "cardbtn2": "Access Project",
-    "featured": ["DrCarlos", "MundoQuantico"]
+    "featured": ["DrCarlos", "MundoQuantico", "Projeto3", "Projeto4"]
   },
   "Project": {
     "MundoQuantico": {
@@ -56,7 +56,7 @@
     },
     "DrCarlos": {
       "projectTitle": "Dr. Carlos",
-      "projectDesc": "This landing page was developed with the goal of presenting legal services. Its structure focuses on converting visitors into potential clients, offering a direct and efficient experience, highlighting key services, and facilitating user contact.",
+      "projectDesc": "This landing page was developed with the goal of presenting legal services. Its structure focuses on converting visitors into potential clients, highlighting key services, and facilitating user contact.",
       "projectName": "DrCarlos",
       "projectIMG": "/DrCarlos.webp",
       "projectLink": "https://advogado-landing-page-taupe.vercel.app",
@@ -68,7 +68,7 @@
     "Projeto3": {
       "projectTitle": "Dr. Carlos",
       "projectDesc": "Esta Landing page foi desenvolvida com o objetivo de apresentar serviços jurídicos. A estrutura é focada na conversão de visitantes em potenciais clientes, oferecendo uma experiência direta e eficiente, destacando os principais serviços e facilitando o contato do usuário.",
-      "projectName": "DrCarlos",
+      "projectName": "Projeto3",
       "projectIMG": "/DrCarlos.webp",
       "projectLink": "https://advogado-landing-page-taupe.vercel.app",
       "projectDesc1": "Este projeto foi desenvolvido como uma landing page para advogados, com o objetivo de apresentar serviços jurídicos de forma clara, profissional e acessível. A proposta é transmitir confiança ao usuário e facilitar o primeiro contato.",
@@ -79,7 +79,7 @@
     "Projeto4": {
       "projectTitle": "Dr. Carlos",
       "projectDesc": "Esta Landing page foi desenvolvida com o objetivo de apresentar serviços jurídicos. A estrutura é focada na conversão de visitantes em potenciais clientes, oferecendo uma experiência direta e eficiente, destacando os principais serviços e facilitando o contato do usuário.",
-      "projectName": "DrCarlos",
+      "projectName": "Projeto4",
       "projectIMG": "/DrCarlos.webp",
       "projectLink": "https://advogado-landing-page-taupe.vercel.app",
       "projectDesc1": "Este projeto foi desenvolvido como uma landing page para advogados, com o objetivo de apresentar serviços jurídicos de forma clara, profissional e acessível. A proposta é transmitir confiança ao usuário e facilitar o primeiro contato.",
