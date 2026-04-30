@@ -45,9 +45,13 @@
   "Project": {
     "MundoQuantico": {
       "projectTitle": "Mundo Quântico",
-      "projectDesc": "Mundo Quântico é uma página web que apresenta histórias com imagens ilustrativas e projetos didáticos voltados para aplicação em sala de aula, oferecendo uma abordagem interativa e acessível ao ensino de conceitos da física e computação quântica.",
+      "projectDesc": "Mundo Quântico is a web platform that showcases illustrated stories and educational projects designed for classroom use, providing an interactive and accessible way to explore concepts in physics and quantum computing.",
       "projectName": "MundoQuantico",
-      "projectLink": "https://mundoquantico.netlify.app"
+      "projectLink": "https://mundoquantico.netlify.app",
+      "projectDesc1": "This project was developed with the goal of presenting physics and quantum computing projects to elementary school students. The idea was inspired by the book 'Physics and Quantum Computing Projects for Elementary Education', developed by the UESB-QuIIN team. The platform features stories with illustrative images and educational projects designed for classroom application, offering an interactive and accessible approach to teaching physics and quantum computing concepts.",
+      "projectDesc2": "The project was developed using Node.js with the Next.js framework. The application includes a main page with navigation links to other sections of the site. A dynamic routing system was implemented using the App Router, following the experimento/[name] pattern in folders to generate dynamic pages based on URL parameters. The data used on the site is centralized in a JavaScript constant, serving as a content source for reusable pages.",
+      "projectDesc3": "The project includes features such as responsiveness, dynamic routing, and lazy loading, allowing the user to have a smooth browsing experience. Each part was built with a focus on speed and efficiency.",
+      "projectDesc4": "With this project, it was possible to improve skills in Next.js, as well as reinforce the importance of componentization. The final result meets the proposed objectives and can be expanded in the future."
     }
   }
 }
