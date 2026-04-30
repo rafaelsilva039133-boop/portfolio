@@ -60,10 +60,10 @@
       "projectName": "DrCarlos",
       "projectIMG": "/Mundo-quantico.webp",
       "projectLink": "https://advogado-landing-page-taupe.vercel.app",
-      "projectDesc1": "Este projeto foi desenvolvido com o objetivo de apresentar projetos de física e computação quântica para alunos do ensino fundamental. A ideia surgiu a partir do livro 'Projetos de Física e Computação Quântica para o Ensino Fundamental', desenvolvido pela equipe UESB-QuIIN. A plataforma apresenta histórias com imagens ilustrativas e projetos didáticos voltados para aplicação em sala de aula, oferecendo uma abordagem interativa e acessível ao ensino de conceitos de física e computação quântica.",
-      "projectDesc2": "O projeto foi desenvolvido com Node.js utilizando o framework Next.js. A aplicação possui uma página principal com links de navegação para outras seções do site. Foi implementado um sistema de rotas dinâmicas usando o App Router, com o padrão experimento/[name] em pastas para geração de páginas dinâmicas com base em parâmetros de URL. Os dados utilizados no site estão centralizados em uma constante JavaScript, funcionando como fonte de conteúdo para páginas reutilizáveis.",
-      "projectDesc3": "O projeto conta com funcionalidades como responsividade, rotas dinâmicas e lazy loading, permitindo que o usuário tenha uma navegação fluida. Cada parte foi construída pensando em rapidez e eficiência.",
-      "projectDesc4": "Com esse projeto, foi possível aprimorar habilidades em Next.js, além de reforçar a importância da componentização. O resultado final atende ao objetivo proposto e pode ser expandido futuramente."
+      "projectDesc1": "Este projeto foi desenvolvido como uma landing page para advogados, com o objetivo de apresentar serviços jurídicos de forma clara, profissional e acessível. A proposta é transmitir confiança ao usuário e facilitar o primeiro contato.",
+      "projectDesc2": "O desenvolvimento foi realizado utilizando HTML, CSS e JavaScript, com foco em performance, organização e responsividade. A estrutura da página foi planejada para guiar o usuário de forma intuitiva pelas informações apresentadas.",
+      "projectDesc3": "A página conta com funcionalidades como design responsivo, seções organizadas e chamadas para ação (CTA), permitindo que o usuário navegue com facilidade e entre em contato rapidamente.",
+      "projectDesc4": "Com esse projeto, foi possível aprimorar habilidades em desenvolvimento front-end e estruturação de landing pages, além de reforçar a importância de um design focado em conversão."
     }
   }
 }

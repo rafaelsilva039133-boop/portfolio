@@ -59,10 +59,10 @@
       "projectName": "DrCarlos",
       "projectIMG": "/Mundo-quantico.webp",
       "projectLink": "https://advogado-landing-page-taupe.vercel.app",
-      "projectDesc1": "Este projeto foi desenvolvido com o objetivo de apresentar projetos de física e computação quântica para alunos do ensino fundamental. A ideia surgiu a partir do livro 'Projetos de Física e Computação Quântica para o Ensino Fundamental', desenvolvido pela equipe UESB-QuIIN. A plataforma apresenta histórias com imagens ilustrativas e projetos didáticos voltados para aplicação em sala de aula, oferecendo uma abordagem interativa e acessível ao ensino de conceitos de física e computação quântica.",
-      "projectDesc2": "O projeto foi desenvolvido com Node.js utilizando o framework Next.js. A aplicação possui uma página principal com links de navegação para outras seções do site. Foi implementado um sistema de rotas dinâmicas usando o App Router, com o padrão experimento/[name] em pastas para geração de páginas dinâmicas com base em parâmetros de URL. Os dados utilizados no site estão centralizados em uma constante JavaScript, funcionando como fonte de conteúdo para páginas reutilizáveis.",
-      "projectDesc3": "O projeto conta com funcionalidades como responsividade, rotas dinâmicas e lazy loading, permitindo que o usuário tenha uma navegação fluida. Cada parte foi construída pensando em rapidez e eficiência.",
-      "projectDesc4": "Com esse projeto, foi possível aprimorar habilidades em Next.js, além de reforçar a importância da componentização. O resultado final atende ao objetivo proposto e pode ser expandido futuramente."
+      "projectDesc1": "This project was developed as a landing page for lawyers, aiming to present legal services in a clear, professional, and accessible way. The goal is to build trust with users and make initial contact easier.",
+      "projectDesc2": "The development was carried out using HTML, CSS and JavaScript, with a focus on performance, organization, and responsiveness. The page structure was designed to guide users intuitively through the presented information.",
+      "projectDesc3": "The page includes features such as responsive design, well-organized sections, and call-to-action (CTA) elements, allowing users to navigate easily and get in touch quickly.",
+      "projectDesc4": "With this project, it was possible to improve front-end development skills and landing page structuring, as well as reinforce the importance of conversion-focused design."
     }
   }
 }
