@@ -1,16 +1,16 @@
 {
   "Home": {
     "title": "Olá, meu nome é ",
-    "description": "Sou Desenvolvedor Fullstack",
+    "description": "Sou Desenvolvedor Fullstack & Web Designer",
     "btn1": "Meus projetos",
     "btn2": "Sobre mim",
     "btn3": "Contato"
   },
   "About": {
     "title": "Sobre mim",
-    "description1": "Sou um desenvolvedor front-end eu crio experiências digitais envolventes e funcionais. Com uma sólida formação em design gráfico, trago uma perspectiva única para o desenvolvimento web, combinando estética e usabilidade.",
-    "description2": "Tenho experiência em HTML, CSS, Node.js, ferramentas low code como WordPress e frameworks como React, o que me permite construir interfaces modernas e responsivas.",
-    "description3": "Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades para entregar projetos de alta qualidade."
+    "description1": "Sou um desenvolvedor Fullstack com formação em design gráfico — o que significa que me preocupo tanto com o funcionamento das coisas quanto com a sua aparência.",
+    "description2": "Tenho experiência em HTML, CSS, Node.js, ferramentas low code como WordPress e frameworks como React, o que me permite construir interfaces modernas e responsivas. Trabalho com React, Next.js, Node.js e Firebase para criar interfaces modernas, rápidas e responsivas.",
+    "description3": "Estou sempre expandindo meu conjunto de ferramentas para entregar resultados cada vez melhores em cada projeto."
   },
   "Services": {
     "title": "Serviços",
@@ -22,7 +22,7 @@
   },
   "Contact": {
     "title": "Contato",
-    "description": "Se você tem um projeto em mente ou deseja discutir como posso ajudar, sinta-se à vontade para entrar em contato comigo. Estou sempre aberto a novas oportunidades e colaborações.",
+    "description": "Tem um projeto em mente? Vamos conversar. Estou disponível para projetos freelance e aberto a novas colaborações.",
     "social": "Redes Sociais"
   },
   "Header": {

@@ -1,16 +1,16 @@
 {
   "Home": {
     "title": "Hello, my name is ",
-    "description": "I am a Fullstack Developer",
+    "description": "I am a Fullstack Developer & Web Designer",
     "btn1": "My Projects",
     "btn2": "About Me",
     "btn3": "Contact"
   },
   "About": {
     "title": "About Me",
-    "description1": "I am a front-end developer who creates engaging and functional digital experiences. With a solid background in graphic design, I bring a unique perspective to web development, combining aesthetics and usability.",
-    "description2": "I have experience in HTML, CSS, Node.js, low-code tools like WordPress, and frameworks like React, which allows me to build modern and responsive interfaces.",
-    "description3": "I am always seeking to learn new technologies and improve my skills to deliver high-quality projects."
+    "description1": "I'm a Fullstack Developer with a background in graphic design — which means I care about both how things work and how they look.",
+    "description2": "That combination lets me build complete web experiences without needing a separate designer involved. I work with React, Next.js, Node.js, and Firebase to build modern, fast, and responsive interfaces. ",
+    "description3": "I'm always expanding my stack to deliver better results on every project."
   },
   "Services": {
     "title": "Services",
@@ -22,7 +22,7 @@
   },
   "Contact": {
     "title": "Contact",
-    "description": "If you have a project in mind or want to discuss how I can help, feel free to get in touch with me. I am always open to new opportunities and collaborations.",
+    "description": "Have a project in mind? Let's talk about it. I'm available for freelance projects and open to new collaborations.",
     "social": "Social Media"
   },
   "Header": {
