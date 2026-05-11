@@ -66,28 +66,6 @@
       "projectDesc2": "O desenvolvimento foi realizado utilizando HTML, CSS e JavaScript, com foco em performance, organização e responsividade. A estrutura da página foi planejada para guiar o usuário de forma intuitiva pelas informações apresentadas.",
       "projectDesc3": "A página conta com funcionalidades como design responsivo, seções organizadas e chamadas para ação (CTA), permitindo que o usuário navegue com facilidade e entre em contato rapidamente.",
       "projectDesc4": "Com esse projeto, foi possível aprimorar habilidades em desenvolvimento front-end e estruturação de landing pages, além de reforçar a importância de um design focado em conversão."
-    },
-    "Projeto3": {
-      "projectTitle": "Dr. Carlos",
-      "projectDesc": "Esta landing page foi desenvolvida com o objetivo de apresentar serviços jurídicos. A estrutura é focada na conversão de visitantes em potenciais clientes, oferecendo uma experiência direta e eficiente, destacando os principais serviços e facilitando o contato do usuário.",
-      "projectName": "DrCarlos",
-      "projectIMG": "/DrCarlos.webp",
-      "projectLink": "https://advogado-landing-page-taupe.vercel.app",
-      "projectDesc1": "Este projeto foi desenvolvido como uma landing page para advogados, com o objetivo de apresentar serviços jurídicos de forma clara, profissional e acessível. A proposta é transmitir confiança ao usuário e facilitar o primeiro contato.",
-      "projectDesc2": "O desenvolvimento foi realizado utilizando HTML, CSS e JavaScript, com foco em performance, organização e responsividade. A estrutura da página foi planejada para guiar o usuário de forma intuitiva pelas informações apresentadas.",
-      "projectDesc3": "A página conta com funcionalidades como design responsivo, seções organizadas e chamadas para ação (CTA), permitindo que o usuário navegue com facilidade e entre em contato rapidamente.",
-      "projectDesc4": "Com esse projeto, foi possível aprimorar habilidades em desenvolvimento front-end e estruturação de landing pages, além de reforçar a importância de um design focado em conversão."
-    },
-    "Projeto4": {
-      "projectTitle": "Dr. Carlos",
-      "projectDesc": "Esta Landing page foi desenvolvida com o objetivo de apresentar serviços jurídicos. A estrutura é focada na conversão de visitantes em potenciais clientes, oferecendo uma experiência direta e eficiente, destacando os principais serviços e facilitando o contato do usuário.",
-      "projectName": "DrCarlos",
-      "projectIMG": "/DrCarlos.webp",
-      "projectLink": "https://advogado-landing-page-taupe.vercel.app",
-      "projectDesc1": "Este projeto foi desenvolvido como uma landing page para advogados, com o objetivo de apresentar serviços jurídicos de forma clara, profissional e acessível. A proposta é transmitir confiança ao usuário e facilitar o primeiro contato.",
-      "projectDesc2": "O desenvolvimento foi realizado utilizando HTML, CSS e JavaScript, com foco em performance, organização e responsividade. A estrutura da página foi planejada para guiar o usuário de forma intuitiva pelas informações apresentadas.",
-      "projectDesc3": "A página conta com funcionalidades como design responsivo, seções organizadas e chamadas para ação (CTA), permitindo que o usuário navegue com facilidade e entre em contato rapidamente.",
-      "projectDesc4": "Com esse projeto, foi possível aprimorar habilidades em desenvolvimento front-end e estruturação de landing pages, além de reforçar a importância de um design focado em conversão."
     }
   }
 }
