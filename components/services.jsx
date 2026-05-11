@@ -8,13 +8,13 @@ function Services(){
       <h1 className="title text-center ">{t("title")}</h1>
       <div className="flex flex-col md:flex-row justify-between text-center pt-10 pb-10 md:pb-0 gap-16">
         <div className="flex flex-col items-center gap-3 m-2 md:m-0 md:w-1/2">
-          <img src="/webdesign.svg" alt="Web Design" className="h-40" />
+          <img src="/webdevelopment.svg" alt="Web Development" className="h-40" />
           <h2 className="subtitle">{t("service1")}</h2>
           <p className="text text-(--color-text) xl:w-[80%]">{t("description1")}</p>
           <Button content={{ link: "#contact", text: t("btn") }} />
         </div>
         <div className="flex flex-col items-center gap-3 m-2 md:m-0 md:w-1/2">
-          <img src="/webdevelopment.svg" alt="Web Development" className="h-40" />
+          <img src="/webdesign.svg" alt="Web Design" className="h-40" />
           <h2 className="subtitle">{t("service2")}</h2>
           <p className="text text-(--color-text) xl:w-[80%]">{t("description2")}</p>
           <Button content={{ link: "#contact", text: t("btn") }} />

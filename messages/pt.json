@@ -1,7 +1,7 @@
 {
   "Home": {
     "title": "Olá, meu nome é ",
-    "description": "Sou Web designer & Desenvolvedor Front-end",
+    "description": "Sou Desenvolvedor Fullstack",
     "btn1": "Meus projetos",
     "btn2": "Sobre mim",
     "btn3": "Contato"
@@ -42,7 +42,7 @@
     "btn": "Ver Todos os Projetos",
     "cardbtn1": "Ver Mais",
     "cardbtn2": "Acessar Projeto",
-    "featured": ["DrCarlos", "MundoQuantico", "Projeto3", "Projeto4"]
+    "featured": ["DrCarlos", "MundoQuantico"]
   },
   "Project": {
     "MundoQuantico": {

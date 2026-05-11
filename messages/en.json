@@ -1,7 +1,7 @@
 {
   "Home": {
     "title": "Hello, my name is ",
-    "description": "I am a Web designer & Front-end Developer",
+    "description": "I am a Fullstack Developer",
     "btn1": "My Projects",
     "btn2": "About Me",
     "btn3": "Contact"
@@ -40,7 +40,7 @@
     "btn": "View All Projects",
     "cardbtn1": "See More",
     "cardbtn2": "Access Project",
-    "featured": ["DrCarlos", "MundoQuantico", "Projeto3", "Projeto4"]
+    "featured": ["DrCarlos", "MundoQuantico"]
   },
   "Project": {
     "MundoQuantico": {
