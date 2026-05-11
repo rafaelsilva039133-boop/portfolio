@@ -8,9 +8,8 @@
   },
   "About": {
     "title": "Sobre mim",
-    "description1": "Sou um desenvolvedor Fullstack com formação em design gráfico — o que significa que me preocupo tanto com o funcionamento das coisas quanto com a sua aparência.",
-    "description2": "Tenho experiência em HTML, CSS, Node.js, ferramentas low code como WordPress e frameworks como React, o que me permite construir interfaces modernas e responsivas. Trabalho com React, Next.js, Node.js e Firebase para criar interfaces modernas, rápidas e responsivas.",
-    "description3": "Estou sempre expandindo meu conjunto de ferramentas para entregar resultados cada vez melhores em cada projeto."
+    "description1": "Sou um desenvolvedor Fullstack com formação em design gráfico — o que significa que me preocupo tanto com o funcionamento quanto com a aparência das coisas. Essa combinação me permite criar experiências web completas sem precisar da participação de um designer externo.",
+    "description2": "Trabalho com React, Next.js, Node.js e Firebase para construir interfaces modernas, rápidas e responsivas. Estou sempre expandindo meu conjunto de tecnologias para entregar melhores resultados em cada projeto."
   },
   "Services": {
     "title": "Serviços",

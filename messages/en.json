@@ -8,9 +8,8 @@
   },
   "About": {
     "title": "About Me",
-    "description1": "I'm a Fullstack Developer with a background in graphic design — which means I care about both how things work and how they look.",
-    "description2": "That combination lets me build complete web experiences without needing a separate designer involved. I work with React, Next.js, Node.js, and Firebase to build modern, fast, and responsive interfaces. ",
-    "description3": "I'm always expanding my stack to deliver better results on every project."
+    "description1": "I'm a Fullstack Developer with a background in graphic design — which means I care about both how things work and how they look. That combination lets me build complete web experiences without needing a separate designer involved.",
+    "description2": "I work with React, Next.js, Node.js, and Firebase to build modern, fast, and responsive interfaces. I'm always expanding my stack to deliver better results on every project."
   },
   "Services": {
     "title": "Services",

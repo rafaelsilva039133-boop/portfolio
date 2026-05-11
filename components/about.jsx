@@ -9,7 +9,6 @@ function About(){
         <h1 className=" title pb-1">{t("title")}</h1>
         <p className=" text">{t("description1")}</p>
         <p className=" text">{t("description2")}</p>
-        <p className=" text">{t("description3")}</p>
       </div>
     </section>
   )
