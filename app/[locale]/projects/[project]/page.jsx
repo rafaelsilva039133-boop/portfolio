@@ -4,7 +4,6 @@ import Header from "@/app/[locale]/projects/components/header";
 import { getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import Image from "next/image";
-import { color } from "motion";
 
 export default async function ProjectPage({ params }) {
   const { project } = await params;
@@ -17,7 +16,7 @@ export default async function ProjectPage({ params }) {
       <Header/>
       <section className=" responsive-container pt-25 pb-15 space-y-2.5">
         <Link href={"/projects"}>
-          <svg xmlns="http://www.w3.org/2000/svg" 
+          <svg 
               width="38" 
               height="38" 
               viewBox="0 0 24 24" 
