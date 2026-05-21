@@ -8,13 +8,13 @@
   },
   "About": {
     "title": "Sobre mim",
-    "description1": "Sou um desenvolvedor Fullstack com formação em design gráfico — o que significa que me preocupo tanto com o funcionamento quanto com a aparência das coisas. Essa combinação me permite criar experiências web completas sem precisar da participação de um designer externo.",
-    "description2": "Trabalho com React, Next.js, Node.js e Firebase para construir interfaces modernas, rápidas e responsivas. Estou sempre expandindo meu conjunto de tecnologias para entregar melhores resultados em cada projeto."
+    "description1": "Sou desenvolvedor e designer — cuido de tudo, desde a identidade visual até o produto final funcionando.",
+    "description2": "Crio landing pages, e-commerces, portfólios e sistemas web sob medida: rápidos, responsivos e pensados para gerar resultados reais para o seu negócio."
   },
   "Services": {
     "title": "Serviços",
-    "service1": "Desenvolvimento Front-end",
-    "description1": "Criação de interfaces web modernas e responsivas utilizando as mais recentes tecnologias e melhores práticas de desenvolvimento.",
+    "service1": "Desenvolvimento Fullstack",
+    "description1": "Criação de aplicações web utilizando as mais recentes tecnologias e melhores práticas de desenvolvimento.",
     "service2": "Web Design",
     "description2": "Design de interfaces web modernas e responsivas, focadas na experiência do usuário e na estética.",
     "btn": "Entrar em contato"

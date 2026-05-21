@@ -8,13 +8,13 @@
   },
   "About": {
     "title": "About Me",
-    "description1": "I'm a Fullstack Developer with a background in graphic design — which means I care about both how things work and how they look. That combination lets me build complete web experiences without needing a separate designer involved.",
-    "description2": "I work with React, Next.js, Node.js, and Firebase to build modern, fast, and responsive interfaces. I'm always expanding my stack to deliver better results on every project."
+    "description1": "I'm a developer and designer — I take care of everything, from visual identity to the final, functioning product.",
+    "description2": "I create custom landing pages, e-commerce sites, portfolios, and web systems: fast, responsive, and designed to generate real results for your business."
   },
   "Services": {
     "title": "Services",
-    "service1": "Front-end Development",
-    "description1": "Creation of modern and responsive web interfaces using the latest technologies and best development practices.",
+    "service1": "Fullstack Development",
+    "description1": "Creation of web applications using the latest technologies and best development practices.",
     "service2": "Web Design",
     "description2": "Design of modern and responsive web interfaces, focused on user experience and aesthetics.",
     "btn": "Get in Touch"
