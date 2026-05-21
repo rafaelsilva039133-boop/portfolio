@@ -6,6 +6,12 @@
   * { cursor: none !important; }
 }
 
+@media (pointer: coarse) {
+  .cursor {
+    display: none;
+  }
+}
+
 html {
   background-color: var(--color-primary);
 }

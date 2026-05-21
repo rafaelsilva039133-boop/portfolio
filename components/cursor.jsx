@@ -77,7 +77,7 @@ export default function Cursor() {
     <>
       {/* Ponto central */}
       <motion.div
-        className="fixed z-9999 pointer-events-none rounded-full bg-[#7C2D12] -translate-x-1/2 -translate-y-1/2"
+        className="fixed z-9999 pointer-events-none rounded-full bg-[#7C2D12] -translate-x-1/2 -translate-y-1/2 cursor"
         style={{ left: dot.x, top: dot.y }}
         animate={{ width: v.dot.width ?? 10, height: v.dot.height ?? 10, opacity: v.dot.opacity ?? 1, borderRadius: v.dot.borderRadius ?? 9999 }}
         transition={{ duration: 0.15 }}
@@ -85,7 +85,7 @@ export default function Cursor() {
 
       {/* Anel externo com lag */}
       <motion.div
-        className="fixed z-9998 pointer-events-none rounded-full border border-[#7C2D12] -translate-x-1/2 -translate-y-1/2"
+        className="fixed z-9998 pointer-events-none rounded-full border border-[#7C2D12] -translate-x-1/2 -translate-y-1/2 cursor"
         style={{ left: ring.x, top: ring.y }}
         animate={{ width: v.ring.width, height: v.ring.height, opacity: v.ring.opacity }}
         transition={{ duration: 0.2 }}
