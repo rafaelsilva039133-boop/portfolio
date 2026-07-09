@@ -1,6 +1,5 @@
 import {useTranslations} from 'next-intl';
 import Button from './button';
-import Image from 'next/image';
 
 function Hero(){ 
   const t = useTranslations('Home');
